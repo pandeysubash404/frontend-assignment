@@ -64,7 +64,7 @@ const ProductDetailComponent = () => {
             </div>
           </div>
         </div>
-        <Link to="/" className="btn btn-primary float-end me-5 ">
+        <Link to="/" className="btn btn-primary float-end m-5 ">
           Go Back
         </Link>
       </div>
